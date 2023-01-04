@@ -15,3 +15,9 @@ Text File
 
 
 ![text5](https://user-images.githubusercontent.com/45370567/210626211-3a5da8d4-4e1b-46a8-a518-9bc73cd04ef1.png)
+
+# How to run this project?
+
+1. First download this project.
+2. Open IntelliJ IDEA.
+3. import this project.
